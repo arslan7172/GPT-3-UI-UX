@@ -12,6 +12,7 @@ import people from './people.png';
 import logosvg from './logo.svg';
 import shopify from './shopify.png';
 import slack from './slack.png';
+import possibility from './possibility.png';
 
 export default{
     logopng,
@@ -27,5 +28,6 @@ export default{
     blog05,
     dropbox,
     google,
-    logosvg
+    logosvg,
+    possibility
 }
