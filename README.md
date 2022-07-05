@@ -6,7 +6,7 @@
 ## Introduction
 This is Modern UI/UX, Fully Responsive Landing Page Website
 
-The project was created by https://www.jsmastery.pro/
+The project was created by [JS Mastery ](https://www.jsmastery.pro/)
 
 Re-written and deployed by me
 
